@@ -1,5 +1,5 @@
 def create_an_empty_array
-  []
+  [] # use literal constructor to make array with nothing in
 end
 
 def create_an_array
